@@ -1,0 +1,9 @@
+﻿Job Title,Job Description,Job Specification,Note,Expected Result
+Tạp vụ,lau dọn vệ sinh,,được thưởng thêm 300k,thông báo thêm thành công vào hệ thống dữ liệu
+,lau dọn vệ sinh,,được thưởng thêm 300k,thông báo yêu cầu phải thêm thông tin Job title vì đây là bắt buộc
+CrystalRainbow25&LuckyStar67*MidnightDreams#Random1234,lau dọn vệ sinh,,được thưởng thêm 300k,thông báo người dùng đã vượt quá số lượng kí tự cho phép
+Chăm sóc chủ tịch,,,được thưởng thêm 5 triệu,vẫn thêm được thành công job title vào hệ thống
+Chăm sóc giám đốc,Whispers of leaves in the breeze a dance of sunlight through branches. Nature's symphony plays as birds add their melodies. Time stands still in this tranquil haven where worries fade like morning mist. Each step leads to new discoveries a journey of wonder and serenity.,,,thông báo người dùng đã vượt quá số lượng kí tự cho phép
+Nuôi dưỡng em gái nuôi,chăm sóc quan tâm,fileTest.pdf,được khấu từ 5% chi phí vận hành,sau khi upload lên thông báo cho người dùng biết kích thước file vượt quá dung lượng 1mb cho phép
+Tạp vụ loại 2,lau dọn bình xăng,,,thêm job title mới thành công và không bị bắt buộc phải thêm thông tin của Note
+Tạp vụ loại 3,lau dọn bình nước,,Whispers of leaves in the breeze a dance of sunlight through branches. Nature's symphony plays as birds add their melodies. Time stands still in this tranquil haven where worries fade like morning mist. Each step leads to new discoveries a journey of wonder and serenity.,thông báo cho người dùng biết đã vượt quá số lượng kí tự cho phép của hệ thống trong ô input note này

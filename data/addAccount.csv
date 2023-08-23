@@ -1,0 +1,10 @@
+﻿User Role,Employee Name,Username,Status,Password,Confirm Password,Expected Result
+ESS,Nguyen Hoang Luan,nhluan3,enabled,HoangLuan@1235,HoangLuan@1235,Thông báo tạo tài khoản người dùng thành công
+ESS,Nhân viên chưa có,nhluan3,enabled,HoangLuan@1235,HoangLuan@1235,Thông báo nhân viên chưa tồn tại không thể tạo tài khoản
+ESS,nguyen hoang luan,nhluan3,enabled,Luan@12,Luan@12,Thông báo độ dài mật khẩu dưới 8 kí tự
+ESS,nguyen hoang luan,nhluan3,enabled,Luan@12,Luan@12,Thông báo cho người dùng biết mật khẩu thiếu kí tự in hoa
+ESS,nguyen hoang luan,nhluan3,enabled,Luan@luan,Luan@luan,Thông báo cho người dùng biết mật khẩu thiếu kí tự số
+ESS,nguyen hoang luan,nhluan3,enabled,Luan@1234,Luan@1234,Tạo tài khoản thành công
+ESS,nguyen hoang luan,SunsetBreeze79*RandomJazz1,enabled,Luan@1234,Luan@1234,thông báo lỗi cho người dùng vì đã nhập quá 41 kí tự
+ESS,nguyen van tam,nguyenvantam2,enabled,Luan@1234,Luan@1234,Tạo tài khoản thành công
+ESS,nguyen hoang luan,nhluan3,enabled,HoangLuan@1234,HoangLuan@4321,thông báo confirm password không trùng với password đã nhập trước đó

@@ -1,0 +1,8 @@
+﻿First Name,Middle Name,Last Name,Employee Id,Photograph,Expected Result
+Nguyen,Hoang,Luan,12,,Thông báo người dùng đã thêm thành công nhân viên mới
+,Hoang,Luan,13,,Thông báo người dùng bắt buộc phải nhập trường thông tin Firtst Name
+nguyen,hoang,luan,,,Thông báo người dùng bắt buộc phải nhập trường thông tin EmployeeID
+nguyen,hoang,luan,12345678991,,Thông báo người dùng trường thông tin EmployeeID vượt mức cho phép
+nguyen,van,,14,,Thêm nhân viên thành công
+nguyen,hoang,luan,15,fileTest.pdf,Thông báo cho người dùng biết kích thước file vượt quá tiêu chuẩn là 1mb
+LuckyDuck42@RandomPick!,hoang,luan,23232,,Thông báo cho người dùng biết đã nhập vượt quá số lượng kí tự cho phép của trường thông tin first name

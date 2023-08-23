@@ -1,0 +1,8 @@
+TC;Input;Expected output;Actual output
+#1;Nguyen|Hoang|Luan|12|;Thông báo người dùng đã thêm thành công nhân viên mới;saved successfully
+#2;|Hoang|Luan|13|;Thông báo người dùng bắt buộc phải nhập trường thông tin Firtst Name;Input firstname: Required
+#3;nguyen|hoang|luan||;Thông báo người dùng bắt buộc phải nhập trường thông tin EmployeeID;saved successfully
+#4;nguyen|hoang|luan|12345678991|;Thông báo người dùng trường thông tin EmployeeID vượt mức cho phép;saved successfully
+#5;nguyen|van||14|;Thêm nhân viên thành công;Input lastName: Required
+#6;nguyen|hoang|luan|15|fileTest.pdf;Thông báo cho người dùng biết kích thước file vượt quá tiêu chuẩn là 1mb;Failed to Save: File Size Exceeded
+#7;LuckyDuck42@RandomPick!|hoang|luan|23232|;Thông báo cho người dùng biết đã nhập vượt quá số lượng kí tự cho phép của trường thông tin first name;saved successfully

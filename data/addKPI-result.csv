@@ -1,0 +1,7 @@
+TC;Input;Expected output;Actual output
+#1;Tạp vụ|tốt lắm|5|20;thông báo thêm thành công vào hệ thống dữ liệu;Successfully Saved
+#2;Tạp vụ||5|20;thông báo cho người dùng trường thông tin này bắt buộc phải nhâpj;Input KPI: Required;Input max rating: 
+#3;Tạp vụ|"Whispers of leaves in the breeze| a dance of sunlight through branches. Nature's symphony plays as birds add their melodies."|5;20;Input min rating: Should be greater than 0;Input max rating: Max rating should be greater than Min rating
+#4;Chăm sóc chủ tịch|||20;thông báo cho người dùng trường thông tin này bắt buộc phải nhâpj;Input KPI: Required;Input min rating: Required;Input max rating: Max rating should be greater than Min rating
+#5;Chăm sóc chủ tịch|hơi tốt thôi|50|14;thông báo cho người dùng Minimum phải nhỏ hơn Maximum;Input min rating: Max rating should be greater than Min rating;Input max rating: Max rating should be greater than Min rating
+#6;Tạp vụ|tốt lắm|5|20;thông báo cho người dùng KPI đã được thêm trước đó;Successfully Saved

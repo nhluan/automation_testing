@@ -1,0 +1,7 @@
+﻿Job Title,Key Performance Indicator,Minimum Rating,Maximum Rating,Expected Result
+Tạp vụ,tốt lắm,5,20,thông báo thêm thành công vào hệ thống dữ liệu
+Tạp vụ,,5,20,thông báo cho người dùng trường thông tin này bắt buộc phải nhâpj
+Tạp vụ,"Whispers of leaves in the breeze, a dance of sunlight through branches. Nature's symphony plays as birds add their melodies.",5,20,thông báo cho người dùng Key Performance đã được nhập vượt quá số lượng kí tự 100 cho phép
+Chăm sóc chủ tịch,,,20,thông báo cho người dùng trường thông tin này bắt buộc phải nhâpj
+Chăm sóc chủ tịch,hơi tốt thôi,50,14,thông báo cho người dùng Minimum phải nhỏ hơn Maximum
+Tạp vụ,tốt lắm,5,20,thông báo cho người dùng KPI đã được thêm trước đó
